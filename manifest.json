@@ -1,12 +1,12 @@
 {
-    "display_name": "SuperObjective",
-    "loading_order": 5,
-    "requires": [],
-    "optional": [],
-    "js": "index.js",
-    "css": "style.css",
-    "author": "ForgottenGlory",
-    "version": "1.0.0-beta",
-    "homePage": "https://github.com/ForgottenGlory/ST-SuperObjective",
-    "auto_update": true
+  "display_name": "目标",
+  "loading_order": 5,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "ForgottenGlory",
+  "version": "1.0.0-beta",
+  "homePage": "https://github.com/ForgottenGlory/ST-SuperObjective",
+  "auto_update": true
 }
